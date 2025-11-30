@@ -41,7 +41,7 @@ Im a learning developer. I enjoy working across the full stack, from frontend in
 
 Here are some of my testing projects that play around common aspects of general development:
 
-### 1. [Task Manager Pro](https://github.com/Caio-HD/TaskManager)
+### 1. [Task Manager](https://github.com/Caio-HD/TaskManager)
 **Full Stack Web Application**
 
 A comprehensive task management application built with React, Node.js, Express, and PostgreSQL. Features user authentication, RESTful API, and Docker containerization.
@@ -80,7 +80,7 @@ An experimental platform for exploring artificial intelligence and machine learn
 
 - **GitHub**: [@Caio-HD](https://github.com/Caio-HD)
 - **Linkedin**: [Caio H. Dias](http://linkedin.com/in/caiohsdias)
-- **HackerRank**: [caio_h_s_dias](https://hackerrank.com/profile/caio_h_s_dias)
+- **HackerRank**: [Caio Dias](https://hackerrank.com/profile/caio_h_s_dias)
 - **Feel free to explore my profiles and projects and reach out if anything looks interesting**
 
 ---
