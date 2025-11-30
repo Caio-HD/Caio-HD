@@ -1,23 +1,40 @@
-# Hi there, I'm Caio-HD 👋
+# Hello, I'm Caio Dias!
 
 ## About Me
 
-I'm a passionate developer focused on building clean, maintainable, and scalable solutions. I enjoy working across the full stack, from frontend interfaces to backend APIs, and I'm always exploring new technologies and best practices.
+Im a learning developer. I enjoy working across the full stack, from frontend interfaces to backend APIs, and I'm always exploring new ideas and technologies.
 
 ## 🚀 Technical Stack
 
-- **Frontend**: React, JavaScript, HTML/CSS
-- **Backend**: Node.js, Express, Python
-- **Databases**: PostgreSQL
-- **DevOps**: Docker, CI/CD
-- **Data & Analytics**: Pandas, Plotly, Jupyter Notebooks
-- **AI/ML**: TensorFlow, Qwen (Local AI)
-- **Testing**: PyTest, Jest
-- **Tools**: Git, Docker Compose
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 💼 Showcase Projects
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-Here are some of my key projects that demonstrate different aspects of software development:
+### Database & DevOps
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Data & AI/ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Testing & Tools
+![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## Showcase Projects
+
+Here are some of my testing projects that play around common aspects of general development:
 
 ### 1. [Task Manager Pro](https://github.com/Caio-HD/TaskManager)
 **Full Stack Web Application**
@@ -47,25 +64,21 @@ An experimental platform for exploring artificial intelligence and machine learn
 
 **Stack**: Python, Pygame, TensorFlow, Qwen (Local AI)
 
-## 🎯 What I'm Learning
+## What I'm Learning
 
 - Advanced full-stack development patterns
 - Machine learning and AI integration
 - DevOps and cloud deployment strategies
 - Data analytics and visualization techniques
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Caio-HD&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-HD&layout=compact&theme=radical)
-
-## 🤝 Let's Connect
+## That's me
 
 - **GitHub**: [@Caio-HD](https://github.com/Caio-HD)
-- Feel free to explore my repositories and reach out if you'd like to collaborate!
+- **Linkedin**: [Caio H. Dias](http://linkedin.com/in/caiohsdias)
+- **HackerRank**: [caio_h_s_dias](https://hackerrank.com/profile/caio_h_s_dias)
+- **Feel free to explore my profiles and projects and reach out if anything looks interesting**
 
 ---
 
-⭐️ From [Caio-HD](https://github.com/Caio-HD)
+From Caio-HD
 
