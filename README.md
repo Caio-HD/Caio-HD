@@ -1,24 +1,24 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello,%20I'm%20Caio%20Dias!&fontSize=50&animation=fadeIn" alt="Header" />
+  <img src="./assets/cyber-header.svg" width="100%" alt="CAIO DIAS — cyberpunk header" />
 </div>
 
-<h3 align="center">🚀 Full Stack Developer | AI Engineer | Cloud Infra Enthusiast</h3>
+<br />
 
 <div align="center">
   <a href="https://github.com/Caio-HD">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-0a0a0f?style=for-the-badge&logo=github&logoColor=00f0ff" alt="GitHub" />
   </a>
   <a href="http://linkedin.com/in/caiohsdias">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=b24bff" alt="LinkedIn" />
   </a>
   <a href="https://hackerrank.com/profile/caio_h_s_dias">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+    <img src="https://img.shields.io/badge/HackerRank-0a0a0f?style=for-the-badge&logo=hackerrank&logoColor=39ff14" alt="HackerRank" />
   </a>
 </div>
 
 <br />
 
-### 👨‍💻 About Me
+### What I build
 
 I'm a **Full Stack Developer & AI Engineer** from São Paulo, Brazil. I specialize in building robust production systems, from seamless frontend interfaces to scalable backend APIs, containerized infrastructure, and automated data pipelines.
 
@@ -76,17 +76,17 @@ Recently, I've been heavily focused on **Self-Hosted Infrastructure** and **AI E
 
 <div align="center">
   <a href="https://github.com/Caio-HD">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Caio-HD&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF" height="195" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Caio-HD&show_icons=true&hide_border=true&bg_color=05060d&text_color=c9d1d9&icon_color=00f0ff&title_color=b24bff&ring_color=00f0ff" height="195" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Caio-HD">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Caio-HD&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" height="195" alt="Top Languages" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Caio-HD&layout=compact&hide_border=true&bg_color=05060d&text_color=c9d1d9&title_color=00f0ff" height="195" alt="Top Languages" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caio-HD&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caio-HD&hide_border=true&background=05060d&ring=00f0ff&fire=b24bff&currStreakLabel=00f0ff&sideLabels=b24bff&currStreakNum=00f0ff&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" />
 </div>
 
 ---
@@ -105,5 +105,5 @@ Recently, I've been heavily focused on **Self-Hosted Infrastructure** and **AI E
 
 <br />
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+  <img src="./assets/cyber-footer.svg" width="100%" alt="cyberpunk footer" />
 </div>
