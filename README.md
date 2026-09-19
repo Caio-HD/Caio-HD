@@ -1,147 +1,94 @@
-# Hello, I'm Caio Dias!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello,%20I'm%20Caio%20Dias!&fontSize=50&animation=fadeIn" alt="Header" />
+</div>
 
-## About Me
+<h3 align="center">🚀 Full Stack Developer | Tech Enthusiast | AI Explorer</h3>
 
-Im a learning developer. I enjoy working across the full stack, from frontend interfaces to backend APIs, and I'm always exploring new ideas and technologies.
+<div align="center">
+  <a href="https://github.com/Caio-HD">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="http://linkedin.com/in/caiohsdias">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://hackerrank.com/profile/caio_h_s_dias">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+</div>
 
-**Full Stack Developer** — Building production systems across the entire stack, from infrastructure and deployment to frontend interfaces and data pipelines. All technologies listed here back real projects, including private production environments.
+<br />
 
----
+### 👨‍💻 About Me
 
-## Technical Stack
+I'm a **Full Stack Developer** from São Paulo, Brazil. I specialize in building robust production systems, from seamless frontend interfaces to scalable backend APIs, infrastructure, and automated data pipelines. I am constantly experimenting with new technologies, including AI, self-hosted infrastructure, and advanced software architecture.
 
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)
-![Pascal](https://img.shields.io/badge/Pascal-003366?style=for-the-badge&logo=lazarus&logoColor=white)
-
-### Database & Storage
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### Infrastructure & DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Coolify](https://img.shields.io/badge/Coolify-6C3CE1?style=for-the-badge&logo=coolify&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=for-the-badge&logo=openssh&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
-### Shell & Scripting
-
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
-### Data & Machine Learning
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### Testing & Version Control
-
-![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SVN](https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white)
-
-### AI Tools & Assisted Development
-
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![OpenAI Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-1A1A2E?style=for-the-badge&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+- 🏗️ Currently building: **Private production systems & AI experiments**
+- 🌱 Learning: **Advanced System Design, Machine Learning Pipelines, and Data Storytelling**
+- 🤝 Open to: **Collaborations, open-source projects, and technical discussions**
 
 ---
 
-## Showcase Projects
+### 🛠️ Tech Stack & Tools
 
-These are some of my test or experiment repositories.. Alongside them, several private systems are actively running across self-hosted infrastructure.
+**Frontend Development**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+</p>
 
-### Task Manager
-**Full Stack Web Application**
+**Backend & Databases**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+</p>
 
-A comprehensive task management system built with React, Node.js, Express, and PostgreSQL. Features user authentication, RESTful API design, and full Docker containerization with CI/CD pipelines.
-
-**Stack:** React, Node.js, Express, PostgreSQL, Docker, CI/CD
-
-[View Repository](https://github.com/Caio-HD/TaskManager)
-
----
-
-### API Data Collector
-**Automation Tool**
-
-A Python-based automation tool for collecting data from multiple APIs and web sources. Covers web scraping, API integration, and automated workflows with full test coverage.
-
-**Stack:** Python, Requests, BeautifulSoup, JSON, PyTest
-
-[View Repository](https://github.com/Caio-HD/api-data-collector)
-
----
-
-### Sales Dashboard
-**Data Visualization**
-
-An interactive analytics platform for sales data, featuring statistical analysis, dynamic charts, and structured data storytelling through Jupyter notebooks.
-
-**Stack:** Python, Pandas, Plotly, Jupyter Notebook
-
-[View Repository](https://github.com/Caio-HD/sales-dashboard)
+**DevOps, Infra & Data**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Coolify-6C3CE1?style=for-the-badge&logo=coolify&logoColor=white" alt="Coolify" />
+  <img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white" alt="Traefik" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+</p>
 
 ---
 
-### AI Lab
-**AI Experimentation Platform**
+### 📊 GitHub Analytics
 
-An experimental platform for exploring machine learning concepts, local model integration, and game development. Includes implementations with local LLMs and reinforcement learning experiments.
+<div align="center">
+  <a href="https://github.com/Caio-HD">
+    <img src="https://github-readme-stats.vercel.app/api?username=Caio-HD&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF" height="195" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Caio-HD">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-HD&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" height="195" alt="Top Languages" />
+  </a>
+</div>
 
-**Stack:** Python, Pygame, TensorFlow, Qwen (Local AI via Ollama)
+<br />
 
-[View Repository](https://github.com/Caio-HD/ai-lab)
-
----
-
-## Currently Developing
-
-- Advanced full-stack architecture and system design patterns
-- Machine learning pipelines and AI-assisted development workflows
-- Self-hosted infrastructure with Coolify, Traefik, and Cloudflare
-- Workflow automation with n8n and custom integrations
-- Data analytics, visualization, and storytelling techniques
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caio-HD&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+</div>
 
 ---
 
-## Connect
+### 🚀 Highlighted Projects
 
-**GitHub:** [@Caio-HD](https://github.com/Caio-HD)
-**LinkedIn:** [Caio H. Dias](http://linkedin.com/in/caiohsdias)
-**HackerRank:** [Caio Dias](https://hackerrank.com/profile/caio_h_s_dias)
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| ⚡ [**Task Manager**](https://github.com/Caio-HD/TaskManager) | Comprehensive full-stack management system with REST APIs, Auth, and CI/CD. | `React` `Node.js` `PostgreSQL` `Docker` |
+| 🤖 [**AI Lab**](https://github.com/Caio-HD/ai-lab) | Experimental playground for Machine Learning, Local LLMs (Ollama) & Game Dev. | `Python` `TensorFlow` `Qwen` |
+| 🕷️ [**API Data Collector**](https://github.com/Caio-HD/api-data-collector) | Automated scraper and data pipeline for aggregating data from web sources & APIs. | `Python` `Requests` `PyTest` |
+| 📈 [**Sales Dashboard**](https://github.com/Caio-HD/sales-dashboard) | Interactive data visualization and analytics platform built in Jupyter. | `Python` `Pandas` `Plotly` |
 
-Open to conversations about interesting projects, collaboration, or just a good technical discussion.
-
----
-
-*Caio-HD*
+<br />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+</div>
