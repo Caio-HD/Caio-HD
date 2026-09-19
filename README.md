@@ -76,10 +76,10 @@ Recently, I've been heavily focused on **Self-Hosted Infrastructure** and **AI E
 
 <div align="center">
   <a href="https://github.com/Caio-HD">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Caio-HD&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=05060d&text_color=c9d1d9&icon_color=00f0ff&title_color=b24bff&ring_color=00f0ff" height="195" alt="GitHub Stats" />
+    <img src="https://stats.ricknya.com/api?username=Caio-HD&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=05060d&text_color=c9d1d9&icon_color=00f0ff&title_color=b24bff&ring_color=00f0ff" height="195" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Caio-HD">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Caio-HD&layout=compact&hide_border=true&bg_color=05060d&text_color=c9d1d9&title_color=00f0ff" height="195" alt="Top Languages" />
+    <img src="https://stats.ricknya.com/api/top-langs/?username=Caio-HD&layout=compact&hide_border=true&bg_color=05060d&text_color=c9d1d9&title_color=00f0ff" height="195" alt="Top Languages" />
   </a>
 </div>
 
