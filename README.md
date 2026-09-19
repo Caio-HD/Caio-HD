@@ -99,7 +99,7 @@ Recently, I've been heavily focused on **Self-Hosted Infrastructure** and **AI E
 |---------|-------------|------------|
 | 🧠 **Nexus / Kyron (AI Core)** | Agentic AI orchestrator featuring Model Context Protocol (MCP), task scheduling, vector search, and dynamic workers. | `pgvector` `Python/Node` `Redis` `PgBouncer` |
 | 🛡️ **Zenrick Platform & Auth** | Full identity and API gateway leveraging self-hosted Supabase GoTrue, multi-tenant databases, and reverse proxy routing. | `Supabase` `PostgreSQL` `Nginx` `Traefik` |
-| 🎨 **Sementia Studio Platform** | Gateway and core engine for Sementia, serving as a unified studio interface and containerized workspace environment. | `Docker` `React/Node` `API Gateway` |
+| 🏗️ **Sementia Engine** | Multi-tenant SaaS platform and automated software house engine. Provisions scalable infrastructures, drift audits, and business intelligence panels for B2B clients. | `Supabase` `Next.js` `Node.js` `Automations` |
 | 🔄 **Automated Comms Pipeline** | Event-driven integration layer handling WhatsApp flows and dynamic notifications. | `n8n` `Evolution API` `MinIO` |
 | 🧪 **QA & Deployment Orchestration** | Integrated QA dashboard with automated test analytics and streamlined VPS deployments via Dokploy. | `Allure` `Dokploy` `Docker` `React` |
 
