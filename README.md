@@ -76,10 +76,10 @@ Recently, I've been heavily focused on **Self-Hosted Infrastructure** and **AI E
 
 <div align="center">
   <a href="https://github.com/Caio-HD">
-    <img src="https://github-readme-stats.vercel.app/api?username=Caio-HD&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF" height="195" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Caio-HD&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF" height="195" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Caio-HD">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-HD&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" height="195" alt="Top Languages" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Caio-HD&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" height="195" alt="Top Languages" />
   </a>
 </div>
 
