@@ -24,7 +24,7 @@ I'm a **Full Stack Developer & AI Engineer** from São Paulo, Brazil. I speciali
 
 Recently, I've been heavily focused on **Self-Hosted Infrastructure** and **AI Engineering**, managing bare-metal servers and VPS environments (Hetzner, KingHost). I build systems involving RAG (Retrieval-Augmented Generation), vector databases, orchestration layers, and workflow automation.
 
-- 🏗️ **Currently building:** Agentic AI orchestrators, core microservices for the Zenrick ecosystem, and autonomous workflows.
+- 🏗️ **Currently building:** Agentic AI orchestrators, core microservices for the Zenrick & Sementia ecosystem, and autonomous workflows.
 - 🌱 **Learning & Exploring:** Advanced Vector Search (`pgvector`), Model Context Protocol (MCP), and High-Availability Distributed Systems.
 - 🤝 **Open to:** Collaborations, open-source projects, and deep technical discussions.
 
@@ -91,14 +91,15 @@ Recently, I've been heavily focused on **Self-Hosted Infrastructure** and **AI E
 
 ---
 
-### 🚀 Highlighted Systems (Zenrick Ecosystem)
+### 🚀 Highlighted Systems (Zenrick & Sementia Ecosystem)
 
-*These projects represent the core architecture of the private ecosystem I am currently building and managing.*
+*These projects represent the core architecture of the private ecosystems I am currently building and managing.*
 
 | Project / Domain | Description | Core Technology |
 |---------|-------------|------------|
 | 🧠 **Nexus / Kyron (AI Core)** | Agentic AI orchestrator featuring Model Context Protocol (MCP), task scheduling, vector search, and dynamic workers. | `pgvector` `Python/Node` `Redis` `PgBouncer` |
 | 🛡️ **Zenrick Platform & Auth** | Full identity and API gateway leveraging self-hosted Supabase GoTrue, multi-tenant databases, and reverse proxy routing. | `Supabase` `PostgreSQL` `Nginx` `Traefik` |
+| 🎨 **Sementia Studio Platform** | Gateway and core engine for Sementia, serving as a unified studio interface and containerized workspace environment. | `Docker` `React/Node` `API Gateway` |
 | 🔄 **Automated Comms Pipeline** | Event-driven integration layer handling WhatsApp flows and dynamic notifications. | `n8n` `Evolution API` `MinIO` |
 | 🧪 **QA & Deployment Orchestration** | Integrated QA dashboard with automated test analytics and streamlined VPS deployments via Dokploy. | `Allure` `Dokploy` `Docker` `React` |
 
