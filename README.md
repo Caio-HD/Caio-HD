@@ -22,7 +22,7 @@
 
 I'm a full stack developer from São Paulo, Brazil. For the last 4 years I've worked at a B2B software company that sells ERP and point-of-sale systems, where I built the web CRM (React, Node.js), maintain the main REST API (TypeScript) and wrote the point-of-sale installer (.NET).
 
-In my own time I build and host my own projects on Linux servers: a personal finance app, a personal assistant that uses LLMs, and the infrastructure to run them.
+I also run Sementia, a small web studio, with a partner. In my own time I build and host my own projects on Linux servers: a personal finance app, a personal assistant that uses LLMs, and the infrastructure to run them.
 
 - **Working on:** my personal assistant (Nexus), and WalletHub, the finance app I use for my own money.
 - **Learning:** pgvector, MCP (Model Context Protocol) and running services on my own servers.
@@ -99,6 +99,7 @@ Most of this code is in private repositories. Happy to walk through it in an int
 |---------|--------------|-------|
 | **WalletHub** ([wallethub.ricknya.com](https://wallethub.ricknya.com)) | Personal finance app. Imports bank statements (OFX/CSV), matches transactions and sorts them into categories. I use it for my own money. | `NestJS` `React` `PostgreSQL` |
 | **Nexus / Kyron** | My personal assistant. Keeps my notes and project history in PostgreSQL, searches them with pgvector, answers through LLMs, runs scheduled tasks and talks to me on WhatsApp. | `TypeScript` `Python` `pgvector` `Redis` |
+| **Sementia** | Small web studio I run with a partner. We build, host and maintain websites for small businesses. I run the servers, deploys, uptime checks and the template every new client site starts from. | `Next.js` `Docker` `Dokploy` `Supabase` |
 | **Self-hosted infrastructure** | The servers that run the projects above: deploys with Dokploy, reverse proxy, CI and daily backups. | `Docker` `Dokploy` `Traefik` `Linux` |
 | 🎨 **[Pixion](https://github.com/PixionAI)** | AI-powered image & video editing, generative tools, real-time preview, and a creative pipeline for production workflows. | `Kotlin` `TensorFlow` `FFmpeg` `Next.js` |
 
