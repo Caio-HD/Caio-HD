@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/cyber-header.svg" width="100%" alt="CAIO DIAS — cyberpunk header" />
+  <img src="./assets/cyber-header.svg" width="100%" alt="CAIO DIAS cyberpunk header" />
 </div>
 
 <br />
@@ -18,15 +18,15 @@
 
 <br />
 
-### What I build
+### About me
 
-I'm a **Full Stack Developer & AI Engineer** from São Paulo, Brazil. I specialize in building robust production systems, from seamless frontend interfaces to scalable backend APIs, containerized infrastructure, and automated data pipelines.
+I'm a full stack developer from São Paulo, Brazil. For the last 4 years I've worked at a B2B software company that sells ERP and point-of-sale systems, where I built the web CRM (React, Node.js), maintain the main REST API (TypeScript) and wrote the point-of-sale installer (.NET).
 
-Recently, I've been heavily focused on **Self-Hosted Infrastructure** and **AI Engineering**, managing bare-metal servers and VPS environments (Hetzner, KingHost). I build systems involving RAG (Retrieval-Augmented Generation), vector databases, orchestration layers, and workflow automation.
+In my own time I build and host my own projects on Linux servers: a personal finance app, a personal assistant that uses LLMs, and the infrastructure to run them.
 
-- 🏗️ **Currently building:** Agentic AI orchestrators, core microservices for the Zenrick & Sementia ecosystem, Pixion generative media, and autonomous workflows.
-- 🌱 **Learning & Exploring:** Advanced Vector Search (`pgvector`), Model Context Protocol (MCP), and High-Availability Distributed Systems.
-- 🤝 **Open to:** Collaborations, open-source projects, and deep technical discussions.
+- **Working on:** my personal assistant (Nexus), and WalletHub, the finance app I use for my own money.
+- **Learning:** pgvector, MCP (Model Context Protocol) and running services on my own servers.
+- **Looking for:** a remote full stack role.
 
 ---
 
@@ -91,18 +91,16 @@ Recently, I've been heavily focused on **Self-Hosted Infrastructure** and **AI E
 
 ---
 
-### 🚀 Highlighted Systems (Zenrick · Sementia · Pixion)
+### Projects
 
-*Core architecture of the private ecosystems I build and operate — agentic infra, SaaS engines, and generative media.*
+Most of this code is in private repositories. Happy to walk through it in an interview.
 
-| Project / Domain | Description | Core Technology |
-|---------|-------------|------------|
-| 🧠 **Nexus / Kyron (AI Core)** | Agentic AI orchestrator featuring Model Context Protocol (MCP), task scheduling, vector search, and dynamic workers. | `pgvector` `Python/Node` `Redis` `PgBouncer` |
-| 🛡️ **Zenrick Platform & Auth** | Full identity and API gateway leveraging self-hosted Supabase GoTrue, multi-tenant databases, and reverse proxy routing. | `Supabase` `PostgreSQL` `Nginx` `Traefik` |
-| 🏗️ **Sementia Engine** | Multi-tenant SaaS platform and automated software house engine. Provisions scalable infrastructures, drift audits, and business intelligence panels for B2B clients. | `Supabase` `Next.js` `Node.js` `Automations` |
-| 🎨 **[Pixion](https://github.com/PixionAI)** | AI-powered image & video editing — generative tools, real-time preview, and a creative pipeline for production workflows. | `Kotlin` `TensorFlow` `FFmpeg` `Next.js` |
-| 🔄 **Automated Comms Pipeline** | Event-driven integration layer handling WhatsApp flows and dynamic notifications. | `n8n` `Evolution API` `MinIO` |
-| 🧪 **QA & Deployment Orchestration** | Integrated QA dashboard with automated test analytics and streamlined VPS deployments via Dokploy. | `Allure` `Dokploy` `Docker` `React` |
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| **WalletHub** ([wallethub.ricknya.com](https://wallethub.ricknya.com)) | Personal finance app. Imports bank statements (OFX/CSV), matches transactions and sorts them into categories. I use it for my own money. | `NestJS` `React` `PostgreSQL` |
+| **Nexus / Kyron** | My personal assistant. Keeps my notes and project history in PostgreSQL, searches them with pgvector, answers through LLMs, runs scheduled tasks and talks to me on WhatsApp. | `TypeScript` `Python` `pgvector` `Redis` |
+| **Self-hosted infrastructure** | The servers that run the projects above: deploys with Dokploy, reverse proxy, CI and daily backups. | `Docker` `Dokploy` `Traefik` `Linux` |
+| 🎨 **[Pixion](https://github.com/PixionAI)** | AI-powered image & video editing, generative tools, real-time preview, and a creative pipeline for production workflows. | `Kotlin` `TensorFlow` `FFmpeg` `Next.js` |
 
 <br />
 <div align="center">
