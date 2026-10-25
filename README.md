@@ -36,7 +36,21 @@ I started in technical support and have been developing full time for the last 2
 | **[wallethub-snapshot](https://github.com/Caio-HD/wallethub-snapshot)** | Personal finance app I use for my own money: imports bank statements (OFX/CSV), reconciles transactions and sorts them into categories. Multi-tenant by organization. One-time snapshot of a private repo. | `NestJS` `React` `PostgreSQL` `Redis` |
 | **[vektor-job-engine](https://github.com/Caio-HD/vektor-job-engine)** | Engine that collects remote job postings from 8 boards, parses salaries in USD and BRL and keeps only the ones that fit (stack, seniority, years asked, salary floor). 90 tests, no dependencies. | `TypeScript` `Node.js` |
 
-Other work lives in private repositories (my personal assistant with pgvector and WhatsApp, the self-hosted infrastructure that runs everything, and the client sites of Sementia, the small web studio I run with a partner). Happy to walk through it in an interview.
+---
+
+### Zenrick — my own ecosystem (private, built from scratch)
+
+A set of products and services I designed, built and run myself, on my own servers.
+
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| **NexusCore** | Shared memory for AI agents: knowledge, events and project state with hybrid semantic search, exposed as an MCP server so every assistant and IDE works from the same context. | `NestJS` `PostgreSQL` `pgvector` `Redis` `MinIO` `MCP` |
+| **Kyron** | Personal executive assistant on WhatsApp. Reads context from NexusCore, audits projects on a schedule and asks me before acting on anything. | `Python` `LLMs` `WhatsApp (Evolution API)` |
+| **Pixion** | AI image product in three parts: an Android app, a web app, and a GPU engine for generation, upscaling, face restoration and background removal, run as queued jobs. | `Kotlin` `Jetpack Compose` `Next.js` `Firebase` `Python` `FastAPI` `Stable Diffusion` `Real-ESRGAN` `OpenCV` |
+| **ZenKit** | Toolkit that keeps several AI coding tools on the same rules, routes tasks between them and checks every diff before it is merged. | `TypeScript` `MCP` |
+| **Infrastructure** | The platform behind all of it: several Linux hosts on a private mesh, containers, reverse proxy, object storage, backups and monitoring. | `Docker` `Traefik` `Dokploy` `Tailscale` `Linux` |
+
+I also run Sementia, a small web studio with a partner, building sites for local businesses. All of this code is private; happy to walk through the architecture in an interview.
 
 ---
 
@@ -60,6 +74,8 @@ Other work lives in private repositories (my personal assistant with pgvector an
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
+
+**Also work with:** Kotlin · Jetpack Compose · FastAPI · pgvector · MCP · Ollama · Firebase · Traefik · Dokploy · MinIO · Tailscale · n8n
 
 <br />
 <div align="center">
