@@ -38,14 +38,14 @@ I started in technical support and have been developing full time for the last 2
 
 ---
 
-### Zenrick — my own ecosystem (private, built from scratch)
+### Zenrick — my own ecosystem (private)
 
 A set of products and services I designed, built and run myself, on my own servers.
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
 | **NexusCore** | Shared memory for AI agents: knowledge, events and project state with hybrid semantic search, exposed as an MCP server so every assistant and IDE works from the same context. | `NestJS` `PostgreSQL` `pgvector` `Redis` `MinIO` `MCP` |
-| **Kyron** | Personal executive assistant on WhatsApp. Reads context from NexusCore, audits projects on a schedule and asks me before acting on anything. | `Python` `LLMs` `WhatsApp (Evolution API)` |
+| **Kyron** | Personal assistant on WhatsApp for me and a few people close to me. First built as my own Python service; now runs on the open-source Hermes Agent, with my own memory (NexusCore), Google integrations, voice messages and per-user data isolation. | `Python` `LLMs` `WhatsApp (Evolution API)` `Hermes Agent` |
 | **Pixion** | AI image product in three parts: an Android app, a web app, and a GPU engine for generation, upscaling, face restoration and background removal, run as queued jobs. | `Kotlin` `Jetpack Compose` `Next.js` `Firebase` `Python` `FastAPI` `Stable Diffusion` `Real-ESRGAN` `OpenCV` |
 | **ZenKit** | Toolkit that keeps several AI coding tools on the same rules, routes tasks between them and checks every diff before it is merged. | `TypeScript` `MCP` |
 | **Infrastructure** | The platform behind all of it: several Linux hosts on a private mesh, containers, reverse proxy, object storage, backups and monitoring. | `Docker` `Traefik` `Dokploy` `Tailscale` `Linux` |
