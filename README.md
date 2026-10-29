@@ -20,7 +20,7 @@
 
 ### About me
 
-Full stack developer based in São Paulo, Brazil (UTC-3). I build and maintain, end to end, the platform a support team uses to serve the customers of a retail software company (ERP and point of sale): the web CRM in React and the REST API in Node.js and TypeScript behind it. I also wrote the .NET installer that delivers the point-of-sale system to customers' stores and set up the team's CI/CD.
+Full stack developer based in S├úo Paulo, Brazil (UTC-3). I build and maintain, end to end, the platform a support team uses to serve the customers of a retail software company (ERP and point of sale): the web CRM in React and the REST API in Node.js and TypeScript behind it. I also wrote the .NET installer that delivers the point-of-sale system to customers' stores and set up the team's CI/CD.
 
 I started in technical support and have been developing full time for the last 2 years, so I know how customers actually use the product. Outside work I run my own projects in production, handling the servers, deployment and monitoring myself.
 
@@ -34,11 +34,12 @@ I started in technical support and have been developing full time for the last 2
 | Project | What it does | Stack |
 |---------|--------------|-------|
 | **[wallethub-snapshot](https://github.com/Caio-HD/wallethub-snapshot)** | Personal finance app I use for my own money: imports bank statements (OFX/CSV), reconciles transactions and sorts them into categories. Multi-tenant by organization. One-time snapshot of a private repo. | `NestJS` `React` `PostgreSQL` `Redis` |
-| **[vektor-job-engine](https://github.com/Caio-HD/vektor-job-engine)** | Engine that collects remote job postings from 8 boards, parses salaries in USD and BRL and keeps only the ones that fit (stack, seniority, years asked, salary floor). 90 tests, no dependencies. | `TypeScript` `Node.js` |
+| **[vektor-job-engine](https://github.com/Caio-HD/vektor-job-engine)** | Engine that collects remote job postings from 8 boards, parses salaries in USD and BRL and keeps only the ones that fit (stack, seniority, years asked, salary floor). 82 tests, no dependencies. | `TypeScript` `Node.js` |
+| **[Vektor](https://vektor.zenrick.dev)** | Career platform I run in production: live meeting copilot, a drill engine with 31 question families, and job collection and scoring. Private source, public product, 431 automated tests. | `Next.js` `PostgreSQL` `TypeScript` |
 
 ---
 
-### Zenrick — my own ecosystem (private)
+### Zenrick ΓÇö my own ecosystem (private)
 
 A set of products and services I designed, built and run myself, on my own servers.
 
@@ -75,7 +76,7 @@ I also run Sementia, a small web studio with a partner, building sites for local
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-**Also work with:** Kotlin · Jetpack Compose · FastAPI · pgvector · MCP · Ollama · Firebase · Traefik · Dokploy · MinIO · Tailscale · n8n
+**Also work with:** Kotlin ┬╖ Jetpack Compose ┬╖ FastAPI ┬╖ pgvector ┬╖ MCP ┬╖ Ollama ┬╖ Firebase ┬╖ Traefik ┬╖ Dokploy ┬╖ MinIO ┬╖ Tailscale ┬╖ n8n
 
 <br />
 <div align="center">
