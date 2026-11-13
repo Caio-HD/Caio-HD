@@ -44,6 +44,21 @@ At **Lukos Tecnologia** (ERP and point-of-sale software for fuel stations and re
 - **AI with human approval:** handoff summaries for N2 and AI replies that wait for Send / Edit / Cancel before reaching the customer.
 - **.NET 10 POS installer** with 600+ tests (xUnit, BDD, UI automation). SQL Server crash detection dropped from ~9 minutes to ~1.
 - **Production:** 16 services on Docker and Dokploy, MCP servers and a RAG knowledge base over SQL Server.
+- **Main contributor across 19 internal repositories:** ~2,000 commits in 15 months.
+
+| Repository | My commits | What it is |
+|---|:---:|---|
+| Support CRM | 576 of 1,054 | WhatsApp CRM for the support team (React, Express, Prisma) |
+| Core REST API | 365 | Ticket, panel and support API (TypeScript, SQL Server) |
+| AI dev kit | 244 | Agents, skills and rules for the dev team's AI assistants |
+| CRM reader (MCP) | 127 | MCP server that lets AI agents read and act on tickets |
+| Sentinela | 127 (100%) | Monitoring agent and API for the customer fleet |
+| POS installer | 73 | .NET 10 installer with 600+ tests |
+| RAG | 53 | Knowledge base and retrieval over SQL Server |
+
+**Running in production:** CRM, CRM reader (MCP), AI service, Sentinela API, MCP and downloads, WhatsApp gateway, SQL Server, Git server and runner, VPN, SFTP and the tutorials portal.
+
+`React` `TypeScript` `Node.js` `Express` `Prisma` `SQL Server` `Redis` `.NET 10` `C#` `Python` `MCP` `RAG` `Docker` `Dokploy` `Jest` `Vitest` `Playwright` `xUnit`
 
 </details>
 
@@ -53,13 +68,18 @@ At **Lukos Tecnologia** (ERP and point-of-sale software for fuel stations and re
 
 Shared memory, task routing and human approval gates for up to 17 AI coding agents working in parallel. Source is private; happy to walk through the architecture in an interview.
 
-| Project | What it does | Stack |
-|---|---|---|
-| **NexusCore** | Shared memory and coordination for AI agents: hybrid search (vectors, full text, trigrams), work leases, a message board across machines and an MCP server. | `NestJS` `PostgreSQL` `pgvector` `Redis` `MinIO` `MCP` |
-| **ZenKit** | Installable kit of agents, skills and rules for Claude Code and Cursor. Routes each task to the cheapest capable model and reviews every diff before merge. | `TypeScript` `MCP` |
-| **Kyron** | Personal assistant on WhatsApp that answers with sources from shared memory and sends proactive briefs. | `Python` `LLMs` `Evolution API` |
-| **Pixion** | AI image product: Android app, web app and a GPU engine for generation, upscaling and background removal. | `Kotlin` `Next.js` `FastAPI` `Stable Diffusion` |
-| **Infrastructure** | Linux hosts on a private mesh, containers, reverse proxy, object storage, backups and monitoring. | `Docker` `Traefik` `Dokploy` `Tailscale` |
+| Project | What it does | Size | Stack |
+|---|---|:---:|---|
+| **NexusCore** | Shared memory and coordination for AI agents: hybrid search (vectors, full text, trigrams), work leases, a message board across machines and an MCP server. | 660+ commits<br>120+ test files | `NestJS` `Drizzle` `PostgreSQL` `pgvector` `Redis` `MinIO` `MCP` |
+| **ZenKit** | Installable kit of agents, skills and rules for Claude Code and Cursor. Routes each task to the cheapest capable model, dispatches coding work to other CLIs and reviews every diff before merge. | 220+ commits<br>60+ test files | `TypeScript` `Node.js` `MCP` |
+| **Kyron** | Personal assistant on WhatsApp that answers with sources from shared memory and sends proactive briefs. | 880+ commits | `Python` `LLMs` `Evolution API` |
+| **ZenCRM** | Multi-tenant WhatsApp CRM, running as a SaaS. | ~1,040 commits<br>1,300+ test files | `React` `Node.js` `PostgreSQL` `Redis` `Docker` |
+| **Vektor** | Career platform: live meeting copilot, interview drills and remote job collection with LLM scoring. | 280+ commits<br>430+ tests | `Next.js` `TypeScript` `PostgreSQL` |
+| **Zencell** | Lightweight edge model for fast classify, extract and summarize tasks, reported back to shared memory. | | `Python` `llama.cpp` |
+| **QA-Platform** | Autonomous QA gate between staging and production: after every deploy it spins up an isolated tenant, runs E2E tests and correlates failures with error tracking. | | `React` `NestJS` `Playwright` `n8n` `Sentry` |
+| **Omina** | Forecasting lab that tests, with no capital at risk, whether a panel of LLMs decides better than simple baselines after costs. | | `Python` `LLMs` |
+| **Pixion** | AI image product: Android app, web app and a GPU engine for generation, upscaling and background removal. | ~110 commits | `Kotlin` `Next.js` `FastAPI` `Stable Diffusion` |
+| **Infrastructure** | 3 Linux hosts on a private mesh, containers, reverse proxy, object storage, backups and monitoring, with a dev environment separate from production. | | `Docker` `Traefik` `Dokploy` `Tailscale` `Linux` |
 
 <a href="https://github.com/zenrick-dev"><img src="https://img.shields.io/badge/Zenrick_on_GitHub-0B1220?style=for-the-badge&logo=github&logoColor=5EEAD4" alt="Zenrick on GitHub" /></a>
 <a href="https://zenrick.dev"><img src="https://img.shields.io/badge/Visit_zenrick.dev-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit zenrick.dev" /></a>
@@ -73,9 +93,11 @@ Shared memory, task routing and human approval gates for up to 17 AI coding agen
 
 - **B2B prospecting platform:** search over Brazil's public company registry, daily automatic prospecting, sales kanban and email and WhatsApp campaigns.
 - **AI qualification agent** that talks to leads around the clock and hands sales a qualified contact.
-- White-label versions running for clients, each with its own data, brand and deployment.
+- **White-label versions** running for clients, including a private security company, each with its own data, brand and deployment. ~360 commits and 340+ test files across the three prospecting platforms.
+- **Client projects** for auto dealers, a clinic, an electrical supplier and industrial vacuum suppliers: briefing, brand, website and systems kept apart per client.
+- **Production** on Docker Swarm and Dokploy, with PostgreSQL tuning, job queues and WhatsApp sessions with anti-ban controls.
 
-`Next.js` `React` `Supabase` `PostgreSQL` `pg-boss` `Anthropic SDK` `MCP`
+`Next.js` `React` `TypeScript` `Supabase` `PostgreSQL` `pg-boss` `Anthropic SDK` `MCP` `Playwright` `Vitest` `Docker`
 
 <a href="https://sementia.com.br"><img src="https://img.shields.io/badge/Visit_sementia.com.br-14B8A6?style=for-the-badge&logo=leaflet&logoColor=white" alt="Visit sementia.com.br" /></a>
 
@@ -138,6 +160,8 @@ Signed executor and launcher binaries for ZenKit. Shows how the kit is distribut
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/SQL-0B1220?style=for-the-badge&logo=databricks&logoColor=5EEAD4" alt="SQL" />
+<img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell scripting" />
 
 **Frontend**<br />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -157,6 +181,7 @@ Signed executor and launcher binaries for ZenKit. Shows how the kit is distribut
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 
 **AI and agents**<br />
@@ -166,6 +191,8 @@ Signed executor and launcher binaries for ZenKit. Shows how the kit is distribut
 
 **DevOps**<br />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/CI%2FCD-0B1220?style=for-the-badge&logo=githubactions&logoColor=5EEAD4" alt="CI/CD" />
 <img src="https://img.shields.io/badge/Dokploy-0B1220?style=for-the-badge&logo=docker&logoColor=5EEAD4" alt="Dokploy" />
 <img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white" alt="Traefik" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
@@ -176,6 +203,21 @@ Signed executor and launcher binaries for ZenKit. Shows how the kit is distribut
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Playwright" />
 <img src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="xUnit" />
+
+## 📈 Activity
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/14B8A6/Caio-HD" width="100%" alt="GitHub contribution chart" />
+  <br />
+  <sub>Most of my work lives in private repositories: ~5,600 contributions in the last year.</sub>
+</div>
+
+## 🎓 Education and certifications
+
+<img src="https://img.shields.io/badge/FMU_FIAMFAAM-Education-14B8A6?style=for-the-badge" alt="FMU FIAMFAAM" />
+<img src="https://img.shields.io/badge/FGV-SQL_(2025)-3B82F6?style=for-the-badge" alt="FGV SQL 2025" />
+<img src="https://img.shields.io/badge/FIAP-Cloud_Fundamentals_(2022)-3B82F6?style=for-the-badge" alt="FIAP Cloud Fundamentals 2022" />
+<img src="https://img.shields.io/badge/Senai-LGPD_(2024)-64748B?style=for-the-badge" alt="Senai LGPD 2024" />
 
 ## 📫 Let's talk
 
