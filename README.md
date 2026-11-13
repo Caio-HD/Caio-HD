@@ -20,12 +20,12 @@
 
 ### About me
 
-Full stack developer based in S├úo Paulo, Brazil (UTC-3). I build and maintain, end to end, the platform a support team uses to serve the customers of a retail software company (ERP and point of sale): the web CRM in React and the REST API in Node.js and TypeScript behind it. I also wrote the .NET installer that delivers the point-of-sale system to customers' stores and set up the team's CI/CD.
+Full Stack Developer based in São Paulo, Brazil (UTC-3). At Lukos Tecnologia I built the WhatsApp support CRM used by 16 support agents (~6.7k tickets and ~120k messages per 90 days), LUK, an AI agent that takes the first pass on ~100 tickets a day, and the .NET POS installer with 600+ tests. I run 16 production services on Docker and Dokploy and ship ~20 deploys a week.
 
-I started in technical support and have been developing full time for the last 2 years, so I know how customers actually use the product. Outside work I run my own projects in production, handling the servers, deployment and monitoring myself.
+Outside work I run Zenrick, my own platform for coordinating up to 17 AI coding agents with shared memory and human approval gates, and I co-founded Sementia, which builds lead generation, CRM and WhatsApp automation for small businesses.
 
-- **Looking for:** a remote full stack or solutions and integrations role.
-- **English:** professional.
+- **Looking for:** remote full stack roles, contractor first, full-time welcome.
+- **English:** C1 (advanced).
 
 ---
 
@@ -51,7 +51,7 @@ A set of products and services I designed, built and run myself, on my own serve
 | **ZenKit** | Toolkit that keeps several AI coding tools on the same rules, routes tasks between them and checks every diff before it is merged. | `TypeScript` `MCP` |
 | **Infrastructure** | The platform behind all of it: several Linux hosts on a private mesh, containers, reverse proxy, object storage, backups and monitoring. | `Docker` `Traefik` `Dokploy` `Tailscale` `Linux` |
 
-I also run Sementia, a small web studio with a partner, building sites for local businesses. All of this code is private; happy to walk through the architecture in an interview.
+I also co-founded Sementia, which builds B2B prospecting, CRM and WhatsApp automation for small businesses. All of this code is private; happy to walk through the architecture in an interview.
 
 ---
 
