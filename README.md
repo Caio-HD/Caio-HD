@@ -7,6 +7,7 @@
 <a href="https://linkedin.com/in/caiohsdias"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=5EEAD4" alt="LinkedIn" /></a>
 <a href="mailto:caio.h.s.dias@gmail.com"><img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=5EEAD4" alt="Email" /></a>
 <a href="https://zenrick.dev"><img src="https://img.shields.io/badge/Zenrick-0B1220?style=for-the-badge&logo=googlechrome&logoColor=5EEAD4" alt="Zenrick website" /></a>
+<a href="https://github.com/zenrick-dev"><img src="https://img.shields.io/badge/Zenrick_GitHub-0B1220?style=for-the-badge&logo=github&logoColor=5EEAD4" alt="Zenrick on GitHub" /></a>
 <a href="https://sementia.com.br"><img src="https://img.shields.io/badge/Sementia-0B1220?style=for-the-badge&logo=leaflet&logoColor=5EEAD4" alt="Sementia website" /></a>
 <a href="https://www.hackerrank.com/profile/caio_h_s_dias"><img src="https://img.shields.io/badge/HackerRank-0B1220?style=for-the-badge&logo=hackerrank&logoColor=5EEAD4" alt="HackerRank" /></a>
 
@@ -60,6 +61,7 @@ Shared memory, task routing and human approval gates for up to 17 AI coding agen
 | **Pixion** | AI image product: Android app, web app and a GPU engine for generation, upscaling and background removal. | `Kotlin` `Next.js` `FastAPI` `Stable Diffusion` |
 | **Infrastructure** | Linux hosts on a private mesh, containers, reverse proxy, object storage, backups and monitoring. | `Docker` `Traefik` `Dokploy` `Tailscale` |
 
+<a href="https://github.com/zenrick-dev"><img src="https://img.shields.io/badge/Zenrick_on_GitHub-0B1220?style=for-the-badge&logo=github&logoColor=5EEAD4" alt="Zenrick on GitHub" /></a>
 <a href="https://zenrick.dev"><img src="https://img.shields.io/badge/Visit_zenrick.dev-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit zenrick.dev" /></a>
 <a href="https://zenrick.dev/zenkit"><img src="https://img.shields.io/badge/About_ZenKit-3B82F6?style=for-the-badge&logo=readthedocs&logoColor=white" alt="About ZenKit" /></a>
 
