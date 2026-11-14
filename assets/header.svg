@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Caio Dias, Full Stack Developer and AI Agents">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Caio Dias, Software Engineer and AI Agents">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0B1220"/>
@@ -56,7 +56,7 @@
 
   <!-- text -->
   <text x="64" y="112" class="t" font-size="58" font-weight="700" fill="#F8FAFC">Caio Dias</text>
-  <text x="66" y="156" class="t" font-size="24" font-weight="600" fill="#F8FAFC">Full Stack Developer <tspan fill="#5EEAD4">· AI Agents</tspan></text>
+  <text x="66" y="156" class="t" font-size="24" font-weight="600" fill="#F8FAFC">Software Engineer <tspan fill="#5EEAD4">· AI Agents</tspan></text>
   <rect x="66" y="174" width="420" height="2" rx="1" fill="url(#accent)"/>
   <text x="66" y="208" class="t" font-size="17" fill="#94A3B8">TypeScript · JavaScript · React · Node.js · PostgreSQL · Docker</text>
   <text x="66" y="240" class="t" font-size="15" fill="#64748B">São Paulo, Brazil · UTC-3 · open to remote<tspan class="cursor" fill="#5EEAD4"> ▍</tspan></text>

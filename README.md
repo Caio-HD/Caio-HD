@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Caio Dias, Full Stack Developer and AI Agents" />
+  <img src="./assets/header.svg" width="100%" alt="Caio Dias, Software Engineer and AI Agents" />
 </div>
 
 <div align="center">
@@ -19,7 +19,7 @@
 
 ## 👋 About me
 
-Full Stack Developer based in São Paulo, Brazil. I build the internal platforms a support team runs on, and I spend my free time making teams of AI agents work together on real software.
+Software Engineer based in São Paulo, Brazil. I build the internal platforms a support team runs on, and I spend my free time making teams of AI agents work together on real software.
 
 At **Lukos Tecnologia** (ERP and point-of-sale software for fuel stations and retail) I built the WhatsApp support CRM, an AI agent that takes the first pass on every new ticket, and the .NET installer that puts the POS system in customers' stores. Outside work I run **Zenrick**, my own platform for coordinating AI coding agents, and I co-founded **Sementia**, which builds sales and automation systems for small businesses.
 
@@ -36,7 +36,7 @@ At **Lukos Tecnologia** (ERP and point-of-sale software for fuel stations and re
 ## 💼 What I'm building
 
 <details open>
-<summary><b>Lukos Tecnologia</b> · Full Stack Developer · <i>click to collapse</i></summary>
+<summary><b>Lukos Tecnologia</b> · Software Engineer · <i>click to collapse</i></summary>
 <br />
 
 - **Support CRM** used by 16 agents across N1, N2 and N3, on top of the company panel. React, TypeScript, Express, Prisma and SQL Server.
@@ -221,7 +221,7 @@ Signed executor and launcher binaries for ZenKit. Shows how the kit is distribut
 
 <div align="center">
 
-Looking for a **remote full stack role**, contractor first and full-time welcome.<br />
+Looking for a **remote software engineering role**, contractor first and full-time welcome.<br />
 The fastest way to reach me is LinkedIn or email.
 
 <a href="https://linkedin.com/in/caiohsdias"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
