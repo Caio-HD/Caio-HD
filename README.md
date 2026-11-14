@@ -207,9 +207,7 @@ Signed executor and launcher binaries for ZenKit. Shows how the kit is distribut
 ## 📈 Activity
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/14B8A6/Caio-HD" width="100%" alt="GitHub contribution chart" />
-  <br />
-  <sub>Most of my work lives in private repositories: ~5,600 contributions in the last year.</sub>
+  <img src="./assets/activity.svg" width="100%" alt="Monthly GitHub contributions in the last 12 months" />
 </div>
 
 ## 🎓 Education and certifications
