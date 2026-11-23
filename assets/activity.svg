@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="300" viewBox="0 0 840 300" role="img" aria-label="6,273 contributions in the last year">
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="300" viewBox="0 0 840 300" role="img" aria-label="6,353 contributions in the last year">
   <defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5EEAD4"/><stop offset="1" stop-color="#0F766E"/></linearGradient></defs>
   <style>text{font-family:-apple-system,Segoe UI,Helvetica,Arial,sans-serif}.t{fill:#e6edf3;font-size:30px;font-weight:700}.s{fill:#8b949e;font-size:14px}.v{fill:#c9d1d9;font-size:12px;text-anchor:middle}.m{fill:#8b949e;font-size:13px;text-anchor:middle}</style>
   <rect width="840" height="300" rx="14" fill="#0d1117" stroke="#30363d"/>
-  <text x="40" y="50" class="t">6,273</text>
+  <text x="40" y="50" class="t">6,353</text>
   <text x="40" y="74" class="s">contributions in the last 12 months · most in private repositories</text>
   <line x1="40" y1="250" x2="820" y2="250" stroke="#30363d"/>
   <rect x="54.3" y="243.9" width="36.4" height="6.1" rx="5" fill="url(#g)"><animate attributeName="height" from="0" to="6.1" dur="0.8s" fill="freeze"/><animate attributeName="y" from="250" to="243.9" dur="0.8s" fill="freeze"/></rect>
@@ -38,7 +38,7 @@
   <rect x="704.3" y="96.7" width="36.4" height="153.3" rx="5" fill="url(#g)"><animate attributeName="height" from="0" to="153.3" dur="0.8s" fill="freeze"/><animate attributeName="y" from="250" to="96.7" dur="0.8s" fill="freeze"/></rect>
   <text x="722.5" y="88.7" class="v">1,435</text>
   <text x="722.5" y="272" class="m">Oct</text>
-  <rect x="769.3" y="140.3" width="36.4" height="109.7" rx="5" fill="url(#g)"><animate attributeName="height" from="0" to="109.7" dur="0.8s" fill="freeze"/><animate attributeName="y" from="250" to="140.3" dur="0.8s" fill="freeze"/></rect>
-  <text x="787.5" y="132.3" class="v">1,027</text>
+  <rect x="769.3" y="131.7" width="36.4" height="118.3" rx="5" fill="url(#g)"><animate attributeName="height" from="0" to="118.3" dur="0.8s" fill="freeze"/><animate attributeName="y" from="250" to="131.7" dur="0.8s" fill="freeze"/></rect>
+  <text x="787.5" y="123.7" class="v">1,107</text>
   <text x="787.5" y="272" class="m">Nov</text>
 </svg>
